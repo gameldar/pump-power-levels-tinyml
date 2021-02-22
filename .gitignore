@@ -1,0 +1,4 @@
+.pio/
+lib/
+server/dist/
+server/node_modules/
